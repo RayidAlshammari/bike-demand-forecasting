@@ -1,0 +1,16 @@
+# Environments
+.env
+.venv
+env/
+venv/
+
+# Data and Models
+data/raw/*
+data/processed/*
+models/*
+!models/.gitkeep
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class

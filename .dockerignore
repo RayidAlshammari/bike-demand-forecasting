@@ -1,0 +1,17 @@
+# Environments
+.venv/
+.env
+
+# Git & Cache
+.git/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Exclude Training Data & Experimentation
+data/
+notebooks/
+src/pipeline/
+
+# Documentation
+README.md

@@ -1,0 +1,18 @@
+# Data Manipulation & EDA
+pandas
+numpy
+matplotlib
+seaborn
+
+# Machine Learning & MLOps
+scikit-learn
+joblib
+
+# ONNX Model Conversion & Runtime
+skl2onnx
+onnxruntime
+
+# API Serving
+fastapi
+uvicorn[standard]
+pydantic
